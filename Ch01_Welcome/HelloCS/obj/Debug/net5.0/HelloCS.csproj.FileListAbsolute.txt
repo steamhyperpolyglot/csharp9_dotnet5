@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\bin\Debug\net5.0\HelloCS.exe
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\bin\Debug\net5.0\HelloCS.dll
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.dll
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+F:\RnD\csharp9_dotnet5\Ch01_Welcome\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache

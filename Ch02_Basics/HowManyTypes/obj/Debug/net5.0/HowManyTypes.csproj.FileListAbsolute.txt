@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\bin\Debug\net5.0\HowManyTypes.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\bin\Debug\net5.0\HowManyTypes.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\bin\Debug\net5.0\HowManyTypes.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\bin\Debug\net5.0\HowManyTypes.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\bin\Debug\net5.0\HowManyTypes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\bin\Debug\net5.0\ref\HowManyTypes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\bin\Debug\net5.0\HowManyTypes.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\ref\HowManyTypes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\HowManyTypes\obj\Debug\net5.0\HowManyTypes.genruntimeconfig.cache
