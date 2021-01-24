@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\bin\Debug\net5.0\DefaultValues.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\bin\Debug\net5.0\DefaultValues.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\bin\Debug\net5.0\DefaultValues.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\bin\Debug\net5.0\DefaultValues.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\bin\Debug\net5.0\DefaultValues.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\bin\Debug\net5.0\ref\DefaultValues.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\bin\Debug\net5.0\DefaultValues.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\ref\DefaultValues.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\DefaultValues\obj\Debug\net5.0\DefaultValues.genruntimeconfig.cache

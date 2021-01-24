@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\bin\Debug\net5.0\NumSizes.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\bin\Debug\net5.0\NumSizes.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\bin\Debug\net5.0\NumSizes.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\bin\Debug\net5.0\NumSizes.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\bin\Debug\net5.0\NumSizes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\bin\Debug\net5.0\ref\NumSizes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\bin\Debug\net5.0\NumSizes.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\ref\NumSizes.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\NumSizes\obj\Debug\net5.0\NumSizes.genruntimeconfig.cache

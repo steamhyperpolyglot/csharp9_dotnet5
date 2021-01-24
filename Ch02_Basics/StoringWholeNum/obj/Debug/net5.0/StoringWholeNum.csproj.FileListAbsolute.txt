@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\bin\Debug\net5.0\StoringWholeNum.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\bin\Debug\net5.0\StoringWholeNum.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\bin\Debug\net5.0\StoringWholeNum.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\bin\Debug\net5.0\StoringWholeNum.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\bin\Debug\net5.0\StoringWholeNum.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\bin\Debug\net5.0\ref\StoringWholeNum.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\bin\Debug\net5.0\StoringWholeNum.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\ref\StoringWholeNum.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\StoringWholeNum\obj\Debug\net5.0\StoringWholeNum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\bin\Debug\net5.0\Arrays.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\bin\Debug\net5.0\Arrays.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\bin\Debug\net5.0\Arrays.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\bin\Debug\net5.0\Arrays.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
