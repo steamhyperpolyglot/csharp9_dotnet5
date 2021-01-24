@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\bin\Debug\net5.0\GetKeyInput.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\bin\Debug\net5.0\GetKeyInput.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\bin\Debug\net5.0\GetKeyInput.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\bin\Debug\net5.0\GetKeyInput.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\bin\Debug\net5.0\GetKeyInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\bin\Debug\net5.0\ref\GetKeyInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\bin\Debug\net5.0\GetKeyInput.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\ref\GetKeyInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetKeyInput\obj\Debug\net5.0\GetKeyInput.genruntimeconfig.cache

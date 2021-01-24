@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\bin\Debug\net5.0\GetUserInput.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\bin\Debug\net5.0\GetUserInput.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\bin\Debug\net5.0\GetUserInput.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\bin\Debug\net5.0\GetUserInput.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\bin\Debug\net5.0\GetUserInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\bin\Debug\net5.0\ref\GetUserInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\bin\Debug\net5.0\GetUserInput.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\ref\GetUserInput.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\GetUserInput\obj\Debug\net5.0\GetUserInput.genruntimeconfig.cache

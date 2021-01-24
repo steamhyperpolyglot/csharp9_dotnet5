@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\bin\Debug\net5.0\Arguments.exe
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\bin\Debug\net5.0\Arguments.deps.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\bin\Debug\net5.0\Arguments.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\bin\Debug\net5.0\ref\Arguments.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\bin\Debug\net5.0\Arguments.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\ref\Arguments.dll
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.pdb
+F:\RnD\csharp9_dotnet5\Ch02_Basics\Arguments\obj\Debug\net5.0\Arguments.genruntimeconfig.cache
