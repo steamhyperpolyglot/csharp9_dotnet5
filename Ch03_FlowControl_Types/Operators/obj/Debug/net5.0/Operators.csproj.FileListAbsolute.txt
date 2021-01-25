@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\bin\Debug\net5.0\Operators.exe
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\bin\Debug\net5.0\Operators.deps.json
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\bin\Debug\net5.0\Operators.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\bin\Debug\net5.0\ref\Operators.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\bin\Debug\net5.0\Operators.pdb
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\ref\Operators.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.pdb
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache

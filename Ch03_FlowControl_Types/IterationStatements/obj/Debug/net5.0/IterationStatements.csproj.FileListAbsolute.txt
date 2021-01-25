@@ -1,0 +1,16 @@
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.csprojAssemblyReference.cache
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+F:\RnD\csharp9_dotnet5\Ch03_FlowControl_Types\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache
